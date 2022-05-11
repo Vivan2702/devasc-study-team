@@ -1,1 +1,0 @@
-print("Hellow worold from file test2")
